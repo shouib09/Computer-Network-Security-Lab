@@ -31,20 +31,9 @@ This repository contains C implementations of Computer and Network Security labo
 ## Software Used
 
 - GCC Compiler
-- Code::Blocks / Dev-C++
+- Code:Blocks / Dev-C++
 - Visual Studio Code
 
-## Folder Structure
-
-```
-Classical_Ciphers/
-Hill_Cipher/
-RSA/
-DES/
-Hashing/
-Diffie_Hellman/
-Block_Cipher_Modes/
-```
 
 ## Author
 
