@@ -1,6 +1,6 @@
-# Computer and Network Security Lab Programs
+# Cryptography and Network Security Lab Programs
 
-This repository contains C implementations of Computer and Network Security laboratory programs.
+This repository contains C implementations of Cryptography and Network Security laboratory programs.
 
 ## Topics Covered
 
